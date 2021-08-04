@@ -11,7 +11,7 @@ This system detects whether the review entered is positive or negative.
 
 
 # Link to the dataset
-[Amazom phones review dataset](https://drive.google.com/drive/folders/1QKkSs6AmZDV-cw0BTR1IlYDIyqm_r9c8?usp=sharing)
+[Amazom phones review dataset](https://drive.google.com/file/d/1AxcJ0U7A0CrZXnUhgvzXdm6gg3kOu9Zg/view?usp=sharing)
 
 # Link to the Video Demonstration
 [Video Demo of the system that detects whether the review is positive or negative](https://drive.google.com/file/d/1YI-DJlSZzhYO1KMug0cNtKYINFa5UBwc/view?usp=sharing)
